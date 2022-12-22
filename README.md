@@ -1,0 +1,2 @@
+# DELL-XPS-13-9350-Hackintosh
+EFI for DELL XPS 13 9350
